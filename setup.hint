@@ -1,7 +1,0 @@
-category: Graphics Text
-requires: libgcc1 libgcj11 libstdc++6
-sdesc: "PDF Toolkit"
-ldesc: "If PDF is electronic paper, then pdftk is an electronic 
-staple-remover, hole-punch, binder, secret-decoder-ring, and 
-X-Ray-glasses. Pdftk is a simple tool for doing everyday things with PDF 
-documents."
