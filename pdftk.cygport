@@ -1,12 +1,12 @@
 NAME="pdftk"
-VERSION=1.45
+VERSION=2.02
 RELEASE=1
 CATEGORY="Graphics Text"
 SUMMARY="PDF Toolkit"
 DESCRIPTION="If PDF is electronic paper, then pdftk is an electronic staple-
 remover, hole-punch, binder, secret-decoder-ring, and X-Ray-glasses. Pdftk is
 a simple tool for doing everyday things with PDF documents."
-HOMEPAGE="http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/"
+HOMEPAGE="http://www.pdflabs.com/tools/pdftk-server/"
 SRC_URI="http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/${NAME}-${VERSION}-src.zip"
 SRC_DIR="${NAME}-${VERSION}-dist"
 
